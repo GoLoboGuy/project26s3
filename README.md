@@ -1,1 +1,1 @@
-# project26s3
+# 2026 Semi - Project #3 Stock Price Visualizer
